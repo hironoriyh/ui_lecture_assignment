@@ -4,8 +4,8 @@ Welcome to the asignment page of Interactive Fabrication course in Creative Tech
 
 # Slides
 
-- [Day 1](https://docs.google.com/presentation/d/19ns-2sw0jdZrEGr_eA_kb3jLQbgg-_aB77MyqtbldgY/edit#slide=id.p1)
-- [Day 2](https://docs.google.com/presentation/d/1zr4PkWpdsLG9179MT4UPAmXZCBLImd4OEzR4bHTkVBU/edit#slide=id.p1)
+- [Day 1](https://docs.google.com/presentation/d/19ns-2sw0jdZrEGr_eA_kb3jLQbgg-_aB77MyqtbldgY/edit?usp=sharing)
+- [Day 2](https://docs.google.com/presentation/d/1zr4PkWpdsLG9179MT4UPAmXZCBLImd4OEzR4bHTkVBU/edit?usp=sharing)
 - Day 3
 - Day 4
 - Day 5
