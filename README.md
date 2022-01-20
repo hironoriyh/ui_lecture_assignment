@@ -2,6 +2,15 @@ User Interface Coursework
 ============================
 Welcome to the asignment page of Adaptive Fabrication course in Creative Technology, Aalto University!
 
+# Slides
+
+- Day 1 https://docs.google.com/presentation/d/19ns-2sw0jdZrEGr_eA_kb3jLQbgg-_aB77MyqtbldgY/edit#slide=id.p1
+- Day 2 https://docs.google.com/presentation/d/1zr4PkWpdsLG9179MT4UPAmXZCBLImd4OEzR4bHTkVBU/edit#slide=id.p1
+- Day 3
+- Day 4
+- Day 5
+- Day 6
+
 # The Game
 ### Check the game with key inputs
 <!-- https://hironoriyh.github.io/ -->
@@ -18,7 +27,7 @@ https://editor.p5js.org/hironoriyh/full/1g5lg6LxH
 The game interface is composed of boundary, target points, and branches.
 Branches can be connected within a certain angle range and importantly one branch must be mirrored. The mirror rule came from the fabrication constraint of 3-axis CNC router. 
 
-### Reference (p5.js)
+### References (p5.js)
 editor: https://editor.p5js.org/ 
 
 code references: https://p5js.org/reference/
