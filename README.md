@@ -4,8 +4,8 @@ Welcome to the asignment page of Adaptive Fabrication course in Creative Technol
 
 # Slides
 
-- Day 1 https://docs.google.com/presentation/d/19ns-2sw0jdZrEGr_eA_kb3jLQbgg-_aB77MyqtbldgY/edit#slide=id.p1
-- Day 2 https://docs.google.com/presentation/d/1zr4PkWpdsLG9179MT4UPAmXZCBLImd4OEzR4bHTkVBU/edit#slide=id.p1
+- [Day 1](https://docs.google.com/presentation/d/19ns-2sw0jdZrEGr_eA_kb3jLQbgg-_aB77MyqtbldgY/edit#slide=id.p1)
+- [Day 2](https://docs.google.com/presentation/d/1zr4PkWpdsLG9179MT4UPAmXZCBLImd4OEzR4bHTkVBU/edit#slide=id.p1)
 - Day 3
 - Day 4
 - Day 5
@@ -28,9 +28,9 @@ The game interface is composed of boundary, target points, and branches.
 Branches can be connected within a certain angle range and importantly one branch must be mirrored. The mirror rule came from the fabrication constraint of 3-axis CNC router. 
 
 ### References (p5.js)
-editor: https://editor.p5js.org/ 
+[editor](https://editor.p5js.org/)
 
-code references: https://p5js.org/reference/
+[code references](https://p5js.org/reference/)
 
 ## Game Instruction
 ### Goal: Connect 4 corners by moving branches 
@@ -56,7 +56,7 @@ Once you finish your implementation, please take screenshots or redcod screens b
 
 
 ## Minimum requirement
-Select branches by mouse click by using the checkCloseBranch function https://github.com/hironoriyh/ui_lecture_assignment/blob/7632384aa50d987c4c7e8d198daf54ee4a6f4ce2/js/Events.js#L60
+Select branches by mouse click by using the [checkCloseBranch function](https://github.com/hironoriyh/ui_lecture_assignment/blob/7632384aa50d987c4c7e8d198daf54ee4a6f4ce2/js/Events.js#L60)
 
 ## Bonus points
     suggestive UI for better configuration
