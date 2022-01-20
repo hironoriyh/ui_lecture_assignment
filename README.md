@@ -1,9 +1,6 @@
 User Interface Coursework
 ============================
-Welcome to the asignment page of user interface course at the University of Tokyo. The entire course schedule is shared in the following link:
-https://www-ui.is.s.u-tokyo.ac.jp/~takeo/course/2020/ui/index.html
-
-<!-- <iframe src="https://editor.p5js.org/hironoriyh/full/1g5lg6LxH"></iframe> -->
+Welcome to the asignment page of Adaptive Fabrication course in Creative Technology, Aalto University!
 
 # The Game
 ### Check the game with key inputs
@@ -50,7 +47,7 @@ Once you finish your implementation, please take screenshots or redcod screens b
 
 
 ## Minimum requirement
-select branches by mouse click by using the checkCloseBranch function https://github.com/hironoriyh/ui_lecture_assignment/blob/7632384aa50d987c4c7e8d198daf54ee4a6f4ce2/js/Events.js#L60
+Select branches by mouse click by using the checkCloseBranch function https://github.com/hironoriyh/ui_lecture_assignment/blob/7632384aa50d987c4c7e8d198daf54ee4a6f4ce2/js/Events.js#L60
 
 ## Bonus points
     suggestive UI for better configuration
@@ -82,8 +79,8 @@ Please follow the following procedure.
 
 # Dues for the assignments and how to submit them
 ## Dues
-  7/13: Show and tell of your UI
-  7/20: Due for the submission of reports
+  xx/xx: Show and tell of your UI
+  xx/xx: Due for the submission of reports
   
 ## Remarks
 Please use many images to describe your systems and user study in your report.
