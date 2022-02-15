@@ -1,6 +1,6 @@
 Interactive Fabrication Course
 ============================
-Welcome to the asignment page of Interactive Fabrication course in Creative Technology, Aalto University!
+Welcome to the asignment page of Interactive Fabrication course!
 
 # Slides
 
